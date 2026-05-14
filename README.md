@@ -1,4 +1,4 @@
-# 🎓 Sistem Informasi Pendaftaran Beasiswa (SIBEASISWA)
+#  Sistem Informasi Pendaftaran Beasiswa (SIBEASISWA)
 
 **Author     :** Anas Atthariq  
 **Tanggal    :** 13 Mei 2026  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Daftar Isi
+##  Daftar Isi
 
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
 - [Fitur Aplikasi](#fitur-aplikasi)
@@ -31,7 +31,7 @@
 
 ---
 
-## ✨ Fitur Aplikasi
+##  Fitur Aplikasi
 
 - ✅ **Dashboard** — Menampilkan statistik total pendaftar, beasiswa akademik, dan non-akademik
 - ✅ **Create** — Form pendaftaran beasiswa baru dengan IPK yang di-generate otomatis
@@ -55,7 +55,7 @@ Sebelum instalasi, pastikan perangkat sudah terpasang:
 
 ---
 
-## 🚀 Cara Instalasi dan Menjalankan
+## Cara Instalasi dan Menjalankan
 
 ### 1. Clone atau Salin Proyek
 
@@ -126,7 +126,7 @@ http://127.0.0.1:8000
 
 ---
 
-## 📁 Struktur Folder Proyek
+## Struktur Folder Proyek
 
 ```
 UKOM-APP/                              ← Root proyek Laravel
@@ -168,7 +168,7 @@ UKOM-APP/                              ← Root proyek Laravel
 
 ---
 
-## 📄 Penjelasan File Utama
+## Penjelasan File Utama
 
 ### `routes/web.php`
 Mendefinisikan semua URL (route) yang dapat diakses. Menggunakan pola RESTful CRUD:
@@ -227,7 +227,7 @@ Migrasi yang membuat tabel `beasiswa` dengan kolom:
 
 ---
 
-## 🔗 Daftar Route
+## Daftar Route
 
 Jalankan perintah berikut untuk melihat semua route yang terdaftar:
 
