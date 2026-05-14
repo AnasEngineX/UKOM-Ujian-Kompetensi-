@@ -5,10 +5,9 @@ use App\Http\Controllers\BeasiswaController;
 
 /*
 |--------------------------------------------------------------------------
-| Web Routes — SIBEASISWA
-|--------------------------------------------------------------------------
-| Route untuk mahasiswa: hanya bisa mendaftar dan melihat data.
-| Tidak ada fitur edit, update, atau hapus untuk mencegah manipulasi.
+| Author      : Anas Atthariq
+| Tanggal     : 13 Mei 2026
+| Deskripsi   : Program dashboard pendaftaran beasiswa mahasiswa
 |--------------------------------------------------------------------------
 */
 
