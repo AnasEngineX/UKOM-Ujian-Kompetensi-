@@ -3,7 +3,13 @@
 @section('title', 'Daftar Beasiswa')
 
 @section('content')
-
+/*
+|--------------------------------------------------------------------------
+| Author      : Anas Atthariq
+| Tanggal     : 13 Mei 2026
+| Deskripsi   : Program dashboard pendaftaran beasiswa mahasiswa
+|--------------------------------------------------------------------------
+*/
 <div class="page-header fade-in-up">
     <h1><i class="fa-solid fa-file-pen me-2" style="color:#818cf8"></i>Form Pendaftaran Beasiswa</h1>
     <p>Isi data berikut dengan lengkap dan benar untuk mendaftar beasiswa</p>
