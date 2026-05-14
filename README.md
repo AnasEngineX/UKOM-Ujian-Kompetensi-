@@ -2,7 +2,7 @@
 
 **Author     :** Anas Atthariq  
 **Tanggal    :** 13 Mei 2026  
-**Deskripsi  :** Aplikasi web berbasis Laravel untuk mengelola pendaftaran beasiswa mahasiswa, dilengkapi fitur CRUD (Create, Read, Update, Delete) lengkap dengan tampilan antarmuka modern.
+**Deskripsi  :** Project tugas praktik demonstrasi Junior Web Developer menggunakan Laravel dan Bootstrap 5.
 
 ---
 
