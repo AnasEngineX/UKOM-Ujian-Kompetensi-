@@ -1,4 +1,4 @@
-#  Sistem Informasi Pendaftaran Beasiswa (SIBEASISWA)
+#  Sistem Informasi Pendaftaran Beasiswa
 
 **Author     :** Anas Atthariq  
 **Tanggal    :** 13 Mei 2026  
